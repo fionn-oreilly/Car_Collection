@@ -6,4 +6,6 @@ The car details can be sorted by make and model, by year, or by mileage. The det
 
 A sample image of the GUI is shown below
 
-### List cars by make and model
+#### List cars by make and model
+
+![GUI Example](https://github.com/fionn-oreilly/Car_Collection/blob/master/Car%20Example.PNG)
